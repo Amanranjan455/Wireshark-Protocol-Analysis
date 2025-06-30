@@ -5,7 +5,7 @@
 This project demonstrates the use of Wireshark to capture and analyze network traffic. The focus is on identifying different network protocols such as DNS, ICMP, TCP, HTTP, TLS/SSL, and ARP. The project helps in understanding how these protocols appear in network traffic and how to inspect them using Wireshark.
 <br>
 
-Steps Performed <br>
+Steps Performed: <br>
 Installed Wireshark. 
 <br>
 Captured live traffic on the active network interface. 
@@ -24,6 +24,7 @@ Exported the captured packets as a .pcap file.
 
 <br>
 **Protocols Observed**
+<br>
 DNS - Domain name resolution
 <br>
 ICMP - Ping and connectivity testing
