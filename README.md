@@ -1,7 +1,7 @@
 **Wireshark-Protocol-Analysis**
 <br>
 
-**Project Description**
+Project Description:
 This project demonstrates the use of Wireshark to capture and analyze network traffic. The focus is on identifying different network protocols such as DNS, ICMP, TCP, HTTP, TLS/SSL, and ARP. The project helps in understanding how these protocols appear in network traffic and how to inspect them using Wireshark.
 <br>
 
@@ -23,7 +23,7 @@ Exported the captured packets as a .pcap file.
 
 
 <br>
-**Protocols Observed**
+Protocols Observed
 <br>
 DNS - Domain name resolution
 <br>
@@ -45,7 +45,7 @@ ARP - MAC address resolution on the local network
 
 
 
-**Tools Used** 
+Tools Used
 <br>
 Wireshark
 <br>
