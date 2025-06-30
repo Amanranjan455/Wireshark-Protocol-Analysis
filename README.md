@@ -36,10 +36,14 @@ HTTP - Web traffic (unencrypted)
 TLS/SSL - Encrypted web traffic (HTTPS)
 <br>
 ARP - MAC address resolution on the local network
+
+
 <br>
 
+
+
 **Tools Used** 
-<br>
+
 Wireshark
 <br>
 Output
