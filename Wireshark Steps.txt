@@ -1,0 +1,39 @@
+
+Wireshark Protocol Analysis - Step-by-Step Instructions
+
+1. Install Wireshark
+   - Download and install from https://www.wireshark.org/download.html
+
+2. Start Packet Capture
+   - Open Wireshark
+   - Select the active network interface (Wi-Fi or Ethernet)
+   - Click the blue 'Start Capture' button (shark fin icon)
+
+3. Generate Network Traffic
+   - Open a browser and visit: http://neverssl.com (HTTP traffic)
+   - Open a browser and visit: https://google.com (HTTPS/TLS traffic)
+   - Open Command Prompt or Terminal and run: ping google.com (ICMP traffic)
+
+4. Stop the Capture
+   - After 1 minute or sufficient traffic, click the red 'Stop' button
+
+5. Apply Protocol Filters (Optional)
+   - To view DNS traffic: dns
+   - To view ICMP traffic: icmp
+   - To view TCP traffic: tcp
+   - To view HTTP traffic: http
+   - To view TLS/SSL traffic: tls or ssl
+   - To view ARP traffic: arp
+
+6. Identify at Least 3 Different Protocols
+   - Look at the 'Protocol' column in Wireshark
+   - Note down at least 3 protocols like DNS, ICMP, TCP, HTTP, TLS/SSL, ARP
+
+7. Export the Capture
+   - Go to File -> Save As
+   - Save the capture as a .pcap file
+
+8. Summarize Findings
+   - Prepare a short summary noting observed protocols, traffic types, and port numbers
+
+End of Instructions
