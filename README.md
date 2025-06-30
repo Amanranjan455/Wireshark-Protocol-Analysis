@@ -46,10 +46,11 @@ ARP - MAC address resolution on the local network
 
 
 **Tools Used** 
-
+<br>
 Wireshark
 <br>
 Output
+<br>
 .pcap file containing the captured traffic
 <br>
 Summary report of identified protocols
