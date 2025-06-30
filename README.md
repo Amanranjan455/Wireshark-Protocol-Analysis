@@ -7,20 +7,25 @@ This project demonstrates the use of Wireshark to capture and analyze network tr
 Steps Performed <br>
 Installed Wireshark. <br>
 Captured live traffic on the active network interface. <br>
-Generated traffic by visiting websites and performing ping operations.
-Stopped the capture after sufficient traffic was recorded.
-Applied filters to isolate different protocols.
-Identified at least three different protocols from the captured traffic.
-Exported the captured packets as a .pcap file.
+Generated traffic by visiting websites and performing ping operations. <br>
+Stopped the capture after sufficient traffic was recorded. <br>
+Applied filters to isolate different protocols. <br>
+Identified at least three different protocols from the captured traffic. <br>
+Exported the captured packets as a .pcap file. <br>
 
 
 <br>
 **Protocols Observed**
 DNS - Domain name resolution
+<br>
 ICMP - Ping and connectivity testing
+<br>
 TCP - Reliable data transfer
+<br>
 HTTP - Web traffic (unencrypted)
+<br>
 TLS/SSL - Encrypted web traffic (HTTPS)
+<br>
 ARP - MAC address resolution on the local network
 <br>
 **Tools Used** <br>
